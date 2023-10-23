@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Drawing 2023-10-23 23.17.10.excalidraw.md",
+            "file": "Workbook.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Drawing 2023-10-23 23.17.10.excalidraw.md",
+            "file": "Workbook.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Drawing 2023-10-23 23.17.10.excalidraw.md"
+            "file": "Workbook.md"
           }
         }
       }
@@ -143,10 +142,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0fcbfa2ceb5e6c44",
+  "active": "90b5b20624ff0d21",
   "lastOpenFiles": [
-    "Workbook.md",
     "Drawing 2023-10-23 23.17.10.excalidraw.md",
+    "Workbook.md",
     "Drawing 2023-10-23 21.04.31.excalidraw.md",
     "Untitled.md",
     "Skil 9.md",
