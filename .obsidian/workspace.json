@@ -16,8 +16,29 @@
                 "file": "Excalidraw/Drawing 2023-10-23 22.51.54.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "037eab5c6e6d5de3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ddc99553aecac581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workbook.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-23 22.51.54.excalidraw.md",
+                "file": "Workbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-23 22.51.54.excalidraw.md",
+                "file": "Workbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-23 22.51.54.excalidraw.md"
+                "file": "Workbook.md"
               }
             }
           }
@@ -145,10 +166,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5ab916ec067e90de",
+  "active": "ddc99553aecac581",
   "lastOpenFiles": [
-    "README.md",
+    "Workbook.md",
     "Excalidraw/Drawing 2023-10-23 22.51.54.excalidraw.md",
+    "README.md",
     "Excalidraw",
     "1698101339286.gif",
     "Drawing 2023-10-23 21.04.31.excalidraw.md"
