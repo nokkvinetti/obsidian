@@ -7,5 +7,14 @@
       ],
       "key": "M"
     }
+  ],
+  "obsidian-excalidraw-plugin:insert-image": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
   ]
 }
