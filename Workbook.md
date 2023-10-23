@@ -122,7 +122,7 @@ d) Assuming the outcomes to be equally likely, find the probability that at most
 5/16
 
 ![[Drawing 2023-10-23 23.17.10.excalidraw]]
-
+Lol
 <div style="page-break-after: always;"></div>
 # Vika 2
 <div style="page-break-after: always;"></div>
