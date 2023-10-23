@@ -21,24 +21,16 @@
             "id": "037eab5c6e6d5de3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ddc99553aecac581",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Workbook.md",
+                "file": "Skil 9.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workbook.md",
+                "file": "Skil 9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workbook.md",
+                "file": "Skil 9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workbook.md"
+                "file": "Skil 9.md"
               }
             }
           }
@@ -166,25 +158,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ddc99553aecac581",
+  "active": "f88db87c1e331854",
   "lastOpenFiles": [
-    "Drawing 2023-10-23 23.17.10.excalidraw.md",
     "Workbook.md",
-    "Untitled.md",
     "Skil 9.md",
-    "Pasted Image 20231023230003_513.png",
-    "Pasted image 20231023225939.png",
-    "Pasted image 20231023183646.png",
-    "Pasted image 20231023183625.png",
-    "Pasted image 20231023174431.png",
-    "Pasted image 20231023165527.png",
-    "Pasted image 20231023165502.png",
-    "Pasted image 20231023150813.png",
-    "Pasted image 20231023150224.png",
-    "Pasted image 20231023150129.png",
-    "Excalidraw/Drawing 2023-10-23 22.51.54.excalidraw.md",
+    "Untitled.md",
     "README.md",
-    "Excalidraw",
-    "Drawing 2023-10-23 21.04.31.excalidraw.md"
+    "Drawing 2023-10-23 21.04.31.excalidraw.md",
+    "Drawing 2023-10-23 23.17.10.excalidraw.md",
+    "1698101339286.gif",
+    "pastedimages/Pasted image 20231018175748.png",
+    "pastedimages",
+    "pastedimages/Pasted Image 20231023230003_513.png",
+    "pastedimages/Pasted image 20231023225939.png",
+    "pastedimages/Pasted image 20231023183646.png",
+    "pastedimages/Pasted image 20231023183625.png",
+    "pastedimages/Pasted image 20231023174431.png",
+    "pastedimages/Pasted image 20231023165527.png",
+    "pastedimages/Pasted image 20231023165502.png",
+    "pastedimages/Pasted image 20231023150813.png",
+    "Excalidraw/Drawing 2023-10-23 22.51.54.excalidraw.md",
+    "Excalidraw"
   ]
 }

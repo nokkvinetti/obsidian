@@ -121,8 +121,6 @@ $4* (1/2)^4=1/4$
 d) Assuming the outcomes to be equally likely, find the probability that at most one of the four answers is “True.”
 $1/16+4/16=5/16$
 
-![[Drawing 2023-10-23 23.17.10.excalidraw]]
-
 <div style="page-break-after: always;"></div>
 # Vika 2
 <div style="page-break-after: always;"></div>
