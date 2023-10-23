@@ -116,7 +116,7 @@ b)Assuming the outcomes to be equally likely, find the probability that all the 
 P(all answers same)=p(all answers True)+p(all answers false)=2/16= 1/8
 
 c)Assuming the outcomes to be equally likely, find the probability that exactly one of the four answers is “True.”
-1/4
+4* 1/2
 
 d) Assuming the outcomes to be equally likely, find the probability that at most one of the four answers is “True.”
 5/16
